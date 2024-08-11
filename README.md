@@ -2,7 +2,7 @@
 
 ### 🚀 Hoping to be full Stack Developer soon ✌️ | Passionate Developer
 
-I'm Aivaneezy, I usually do web stuff.
+I'm Aivaneezy, I usually do web stuff. Check out my website to explore my work: https://www.aivaneezy.it/
 
 ### 🛠️ Tech Stack
 
