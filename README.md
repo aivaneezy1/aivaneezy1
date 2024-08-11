@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Aivaneezy
 
-### 🚀 Full Stack Developer | Passionate Developer
+### 🚀 Hoping to be full Stack Developer soon ✌️ | Passionate Developer
 
 I'm Aivaneezy, I usually do web stuff.
 
