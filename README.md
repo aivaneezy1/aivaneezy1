@@ -21,10 +21,11 @@ Here are some of the technologies I work with:
   - Node.js
   - Express.js
   - C#
-  - 
+    
 - **Database:**
-  -MongoDB
-  -SQL
+  - MongoDB
+  - SQL
+    
 ### 📈 GitHub Stats
 
 ![aivaneezy1 GitHub Stats](https://github-readme-stats.vercel.app/api?username=aivaneezy1&show_icons=true&theme=radical)
